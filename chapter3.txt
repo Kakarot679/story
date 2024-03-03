@@ -7,3 +7,14 @@ git log,
 git commit, 
 git init ,
 git config 
+clear
+
+git diff
+
+
+git branch
+git checkout
+
+
+
+we are done here
